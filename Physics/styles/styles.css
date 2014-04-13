@@ -1,0 +1,39 @@
+
+h1 {
+  color: green;
+}
+
+h2 {
+  color: blue;
+}
+
+.important {
+  line-height: 120%;
+  color:#03a8c7;
+  font-size: 20px;  
+}
+
+li {
+  color: white;
+  list-style: lower-latin;
+}
+
+body {
+  background: #121212;
+}
+.pjs-meta {
+  display: none;
+}
+
+#physicsjs {
+  display: none;
+  border: 1px solid #666;
+}
+
+#threejs{
+  display: none;
+}
+
+#button2{
+  display: none;
+}
